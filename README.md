@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
   </a>
 </p>
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfWcF-1pqyA6zVOW1l-2Z5J2Uuhchy2ePTig&s"/>
+ <img src="https://spin.atomicobject.com/wp-content/uploads/JDP-AO2023-371-1-scaled.jpg"/>
 ---
 
 ### 👨‍💻 About Me
