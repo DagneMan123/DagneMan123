@@ -30,7 +30,7 @@
 - 👯 I’m looking to collaborate on **Innovative Open-Source Projects and Scalable Full-Stack Applications.**
 - 💬 Ask me about **React TypeScript, Node.js, Cloud Computing (AWS/Azure), and Scalable System Architecture.**
 - 📫 How to reach me: **aydenfudagne@gmail.com**
-- ⚡ Fun fact: ** I often solve complex bugs in my dreams and wake up ready to commit the fix.**
+- ⚡ Fun fact:  I often solve complex bugs in my dreams and wake up ready to commit the fix.
 
 ---
 
@@ -57,9 +57,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DagneMan123&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
+[![trophy](https://github-profile-trophy.vercel.app/?username=DagneMan123&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔝 Recent Contributions
 
