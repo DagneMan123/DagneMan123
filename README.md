@@ -25,12 +25,12 @@
 
 ### 👨💻 About Me
 ⚡ Check out my Portfolio 🔗 https://app.netlify.com/
-- 🔭 I’m currently working on **scalable cloud-native applications**
-- 🌱 I’m currently deepening my knowledge in **Distributed Systems and AWS Solutions Architecture**
-- 👯 I’m looking to collaborate on **open-source projects and innovative startups**
-- 💬 Ask me about **React, Node.js, Cloud Computing, or Database design**
+- 🔭 I’m currently working on **FullStack Developer**
+- 🌱 I’m currently deepening my knowledge in **Modern Full-Stack Frameworks and Server-Side Rendering (SSR)**
+- 👯 I’m looking to collaborate on **Innovative Open-Source Projects and Scalable Full-Stack Applications.**
+- 💬 Ask me about **React TypeScript, Node.js, Cloud Computing (AWS/Azure), and Scalable System Architecture.**
 - 📫 How to reach me: **aydenfudagne@gmail.com**
-- ⚡ Fun fact: **I enjoy solving complex algorithms and contributing to developer communities.**
+- ⚡ Fun fact: ** I often solve complex bugs in my dreams and wake up ready to commit the fix.**
 
 ---
 
