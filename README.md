@@ -59,6 +59,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DagneMan123&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
+
 ### 🔝 Recent Contributions
 
 <!-- retro snake game -->
@@ -71,11 +73,13 @@
 ---
 
 ### 📈 Activity Graph
-[![Dagne's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DagneMan123&theme=react-dark&hide_border=true&area=true)](https://github.com/dagne aydenfu/github-readme-activity-graph)
+
+[![Dagne's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DagneMan123&theme=react-dark&hide_border=true&area=true)](https://github.com/DagneMan123/github-readme-activity-graph)
 
 ---
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
