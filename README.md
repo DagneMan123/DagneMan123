@@ -53,28 +53,7 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DagneMan123&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
-## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DagneMan123&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🔝 Recent Contributions
-
-<!-- retro snake game -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DagneMan123/DagneMan123/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DagneMan123/DagneMan123/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DagneMan123/DagneMan123/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-### 📈 Activity Graph
-
-[![Dagne's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DagneMan123&theme=react-dark&hide_border=true&area=true)](https://github.com/DagneMan123)
-
----
 
 ### ✍️ Random Dev Quote
 
