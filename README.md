@@ -55,7 +55,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DagneMan123&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4)](https://github.com/DagneMan123)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DagneMan123&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
