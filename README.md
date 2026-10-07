@@ -72,7 +72,7 @@
 
 ### 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DagneMan123&theme=react-dark&hide_border=true&area=true)](https://github.com/DagneMan123)
+[![Dagne's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DagneMan123&theme=react-dark&hide_border=true&area=true)](https://github.com/DagneMan123)
 
 ---
 
