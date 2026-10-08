@@ -54,9 +54,7 @@
 </p>
 
 
-## 📊 GitHub Activity
 
-![GitHub Activity Graph](https://YOUR-GRAPH-DOMAIN.vercel.app/graph?username=DagneMan123)
 
 ### ✍️ Random Dev Quote
 
