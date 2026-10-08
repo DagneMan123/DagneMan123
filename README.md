@@ -55,7 +55,13 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DagneMan123&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DagneMan123&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DagneMan123&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ### ✍️ Random Dev Quote
 
