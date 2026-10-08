@@ -16,7 +16,7 @@
   <a href="https://x.com/DagneMan123">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="[portfolio2025dagne.netlify.app">
+  <a href="https://portfolio2025dagne.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
   </a>
 </p>
