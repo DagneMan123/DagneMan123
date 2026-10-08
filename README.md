@@ -3,7 +3,9 @@
 <h3 align="center">A passionate Full-Stack Software Engineer from Ethiopia</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=22B4DE&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Cloud+Enthusiast;Problem+Solver;Clean+Code+Advocate" alt="Typing SVG" /></a>
+  <a href="https://github.com/DagneMan123">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=22B4DE&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Cloud+Enthusiast;Problem+Solver;Clean+Code+Advocate" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
