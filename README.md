@@ -55,9 +55,7 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DagneMan123&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
-<p align="center">
-  <img src="./profile-summary-card-output/dark/0-profile-details.svg" alt="Profile Details" />
-</p>
+
 
 
 
