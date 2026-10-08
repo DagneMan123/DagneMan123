@@ -56,7 +56,7 @@
 
 ## 📊 GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DagneMan123&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
+[![DagneMan123's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DagneMan123&theme=react-dark&hide_border=true&area=true)](https://github.com/DagneMan123)
 
 ### ✍️ Random Dev Quote
 
