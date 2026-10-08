@@ -59,16 +59,7 @@
   <img src="./profile-summary-card-output/dark/0-profile-details.svg" alt="Profile Details" />
 </p>
 
-<table align="center">
-  <tr>
-    <td><img src="./profile-summary-card-output/dark/1-repos-per-language.svg" alt="Top Languages by Repo" /></td>
-    <td><img src="./profile-summary-card-output/dark/2-most-commit-language.svg" alt="Top Languages by Commit" /></td>
-  </tr>
-  <tr>
-    <td><img src="./profile-summary-card-output/dark/3-stats.svg" alt="Stats" /></td>
-    <td><img src="./profile-summary-card-output/dark/4-productive-time.svg" alt="Commits Time" /></td>
-  </tr>
-</table>
+
 
 ### ✍️ Random Dev Quote
 
