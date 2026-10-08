@@ -55,25 +55,6 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DagneMan123&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
-name: GitHub-Profile-Summary-Cards
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-      - uses: vn7n24zxfk/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: "DagneMan123"
 
 
 
