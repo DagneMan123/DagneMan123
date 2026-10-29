@@ -48,8 +48,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DagneMan123&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DagneMan123&theme=radical&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DagneMan123&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
